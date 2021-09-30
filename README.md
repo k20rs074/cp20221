@@ -1,6 +1,6 @@
 # cp20221
 
-##Part1
+##part1
 This is README.
 - item1
 - item2
